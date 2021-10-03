@@ -1,0 +1,6 @@
+git clone maryrose-hw my_clone
+cd my_clone
+git branch comment
+git add homework.js
+git push
+cd ../maryrose-hw
